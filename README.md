@@ -20,6 +20,8 @@ The analysis resulted in the following findings:
 - Autocorrelation analysis indicated a significant autocorrelation structure.
 - The Augmented Dickey-Fuller (ADF) test suggested that the data is not stationary.
 - SARIMA modeling was found appropriate for forecasting mean temperature.
+## Model Predictions
+The SARIMA model was trained on the dataset, and predictions were made for the next 30 days of mean temperature in Delhi.These predictions can be further evaluated for accuracy and used for planning and decision-making purposes.
 ## Limitations
 - The analysis assumes that the data is representative and accurate.
 - External factors such as climate change or urbanization may influence the accuracy of the forecast.
